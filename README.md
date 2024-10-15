@@ -1,7 +1,7 @@
 # About me
-*## Mi nombre es Jeremy Velasco, actualmente tengo 20 años y me encuentro cursando un grado de especialización en IA y BigData.  
+**## Mi nombre es Jeremy Velasco, actualmente tengo 20 años y me encuentro cursando un grado de especialización en IA y BigData.** 
 <!--
-
+<!--
 ##Hobbies
 ###lgunos de mis hoobies son:
 1. La informática
@@ -13,4 +13,4 @@
 
 
 
-<!--
+
