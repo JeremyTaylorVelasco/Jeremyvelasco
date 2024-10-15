@@ -11,8 +11,17 @@ En cuanto a mis gustos personales algunos de estos son:
 2. Tecnologia
 3. Deporte
 4. Ocio
-5. ropa
+5. Mopa
 ---------------
-`Estoy formado como Técnico Superior en Sisitemas de Telecomunicaciones e Informáticos`
+### Studies
+Estoy formado como:
 
+-Técnico Medio en Instalaciones de Telecomuncicaciones
 
+-Técnico Superior en Sisitemas de Telecomunicaciones e Informática
+### Lenguages
+
+| Idiomas | Nivel|
+|----------|---------|
+| `Inglés` | | Medio |
+| `Castellano`  | Nativo |
