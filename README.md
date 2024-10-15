@@ -25,5 +25,5 @@ Estoy formado como:
 
 | Idiomas | Nivel|
 |----------|---------|
-| `Inglés` | | Medio |
+| `Inglés` | Medio |
 | `Castellano`  | Nativo |
