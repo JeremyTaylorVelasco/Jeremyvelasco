@@ -11,7 +11,7 @@ En cuanto a mis gustos personales algunos de estos son:
 2. Tecnologia
 3. Deporte
 4. Ocio
-5. Mopa
+5. Moda
 ---------------
 ### Studies
 Estoy formado como:
@@ -19,6 +19,8 @@ Estoy formado como:
 -Técnico Medio en Instalaciones de Telecomuncicaciones
 
 -Técnico Superior en Sisitemas de Telecomunicaciones e Informática
+
+---------------
 ### Lenguages
 
 | Idiomas | Nivel|
